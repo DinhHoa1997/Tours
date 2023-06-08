@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family:Lato-B;
+    src: url('fonts/OpenSans-Bold.ttf');
+    font-display: swap;
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family:Lato-R;
+    src: url('fonts/OpenSans-SemiBold.ttf');
+    font-display: swap;
+    font-weight: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family:Lato;
+    src: url('fonts/OpenSans-Regular.ttf');
+   
+    font-display: swap;
+}
+
